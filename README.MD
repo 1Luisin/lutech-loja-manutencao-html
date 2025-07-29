@@ -1,1 +1,14 @@
-Projeto da minha loja pessoal, postarei aqui meus treinos, aprendizados e o projeto finalizado posteriormente. A Lutech é uma loja de manutenção e reparo de computadores e notebooks. O principal diferencial se refere ao mecanismo de visualização do processo de manutenção, no qual pode estar no processo de recebido, em espera, em processo e finalizado.
+# 🖥️ Lutech - Loja de Manutenção
+
+Projeto de site fictício de uma loja de manutenção e reparo de computadores, criado com HTML.
+
+## Páginas
+- Página inicial
+- Serviços oferecidos
+- Contato
+
+## Tecnologias
+- HTML5
+
+## Objetivo
+Praticar estruturação de páginas web e organização semântica usando apenas HTML.
