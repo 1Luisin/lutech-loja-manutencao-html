@@ -288,6 +288,13 @@
         inset: 24px 24px 158px 24px;
       }
 
+      .hero-card-logo {
+        background-image: url("logo-lutech.jpg");
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+      }
+
       .hero-card-float {
         right: 18px;
         bottom: 20px;
